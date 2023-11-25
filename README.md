@@ -16,6 +16,11 @@
 ## Model Performance
 - **F1 Score (0.90):** The model achieves an impressive F1 score of 0.90, indicating a high level of precision and recall balance. This metric showcases the model's effectiveness in correctly identifying tweets with suicide risk while minimizing false positives and false negatives.
 
+![imeda](https://raw.githubusercontent.com/NyAiko/Tweet-Ideation-To-Save-Lives/master/images/download.png)
+
+![imcm](https://raw.githubusercontent.com/NyAiko/Tweet-Ideation-To-Save-Lives/master/images/download%20(1).png)
+
+
 ## Open the Notebook for More Details
 - To explore the model and visualizations in detail, please follow these steps:
    1. **Install Jupyter Notebook:** If not already installed, run `pip install notebook` in your terminal or command prompt.
