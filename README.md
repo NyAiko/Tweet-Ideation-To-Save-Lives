@@ -1,4 +1,4 @@
-#Tweet Ideation - To save lives
+# Tweet Ideation - To save lives
 
 ## Problem Statement
 - Detecting suicide-related content on social media is challenging but crucial for timely intervention and support. This project addresses the need for an automated system to identify tweets expressing potential suicide risk.
